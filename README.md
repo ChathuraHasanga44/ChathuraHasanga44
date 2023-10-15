@@ -1,4 +1,13 @@
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Banner image" style=width: 100%;">
+<img id="responsive-image" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Banner Image" style="max-width: 100%; width: 100%; height: auto;">
+
+<style>
+    @media screen and (min-width: 768px) {
+        #responsive-image {
+            width: 50%; /* You can adjust this percentage as needed for your design */
+        }
+    }
+</style>
+
 
 <h1 align="center">Hi 👋, I'm Chathura Hasanga Abeywickrama</h1>
 <h3 align="center">A passionate Mobile App developer from Sri Lanka</h3>
