@@ -1,4 +1,4 @@
-<img max-width:100% width:100% src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Banner image">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Banner image" style="max-width: 100%; width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Chathura Hasanga Abeywickrama</h1>
 <h3 align="center">A passionate Mobile App developer from Sri Lanka</h3>
