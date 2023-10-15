@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/R.ffe5a0bd0f3dc1e3762e312231caabdd?rik=FlVCs40rmNYY6A&riu=http%3a%2f%2faxespoint.com%2fimg%2faxespoint_slider1.png&ehk=VdXku%2bTvX63WlKFf%2f0GmEwR9USpYK1nUM1Tx9S2JIkc%3d&risl=&pid=ImgRaw" alt="Banner Image" style="max-width: 100%; width: 100%; height="400";>
+<img src="https://th.bing.com/th/id/R.ffe5a0bd0f3dc1e3762e312231caabdd?rik=FlVCs40rmNYY6A&riu=http%3a%2f%2faxespoint.com%2fimg%2faxespoint_slider1.png&ehk=VdXku%2bTvX63WlKFf%2f0GmEwR9USpYK1nUM1Tx9S2JIkc%3d&risl=&pid=ImgRaw" alt="Banner Image" style="max-width: 100%; width: 100%; height: 400px;">
 
 <h1 align="center">Hi 👋, I'm Chathura Hasanga Abeywickrama</h1>
 <h3 align="center">A passionate Mobile App developer from Sri Lanka</h3>
