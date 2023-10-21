@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathurahasanga44&show_icons=true&locale=en" alt="chathurahasanga44" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathurahasanga44&" alt="chathurahasanga44" /></p>
+
+[![An image of @chathurahasanga44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chathurahasanga44)](https://holopin.io/@chathurahasanga44)
+
