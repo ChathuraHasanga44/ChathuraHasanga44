@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Chathura Hasanga Abeywickrama</h1>
 <h3 align="center">A passionate Mobile App developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="300" height="300" src="https://www.bing.com/th/id/OGC.7755cd19d65c849a49efc43f3b4958c8?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2ffnD9cHHIrYRYk%2fgiphy.gif&ehk=zyNPEkOTRd%2bkVusA9QR6%2bFT9wYnreOEtMcCF7MfUQmU%3d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurahasanga44&label=Profile%20views&color=0e75b6&style=flat" alt="chathurahasanga44" /> </p>
 
