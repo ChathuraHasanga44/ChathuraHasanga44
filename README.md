@@ -46,5 +46,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathurahasanga44&" alt="chathurahasanga44" />
 </p>
-
-<iframe src="https://hackerrank-badge.herokuapp.com/ChathuraHasanga044" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
