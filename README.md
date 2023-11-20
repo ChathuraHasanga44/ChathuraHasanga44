@@ -46,3 +46,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathurahasanga44&" alt="chathurahasanga44" />
 </p>
+
+<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
+<div class='academy-badge'>
+<a href='https://app.hubspot.com/academy/achievements/fzc8xrnq/en/1/ahc-hasanga/digital-marketing' title='Digital Marketing '>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a4c4b542266541fa8624cf32a1890864.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Digital Marketing  Badge -->
