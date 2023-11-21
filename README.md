@@ -50,7 +50,7 @@
 <!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
 <div class='academy-badge'>
 <a href='https://app.hubspot.com/academy/achievements/fzc8xrnq/en/1/ahc-hasanga/digital-marketing' title='Digital Marketing '>
-<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a4c4b542266541fa8624cf32a1890864.png' />
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a4c4b542266541fa8624cf32a1890864.png' width="100px" height="100px"/>
 </a>
 </div>
 <!-- End: HubSpot Academy - Digital Marketing  Badge -->
